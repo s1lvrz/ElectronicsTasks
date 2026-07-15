@@ -4,3 +4,4 @@
 🔗 **[Tinkercad Link](https://www.tinkercad.com/things/gdeo9qyZcez-electronicstask?sharecode=RY2cjAT3PMlwteYd3_oVepOY-dfvPm_edRc1RzoaBZg)**
 
 ## 🎥 Project Demonstration Video
+[Click here to watch the Project Demonstration Video](https://github.com/s1lvrz/SmartMethods/blob/main/Screen%20Recording%202026-07-15%20150539.mp4)
